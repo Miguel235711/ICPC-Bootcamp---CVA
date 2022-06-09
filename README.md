@@ -1,1 +1,1 @@
-# ICPC-Bootcamp---CVA
+# ICPC Bootcamp - CVA
